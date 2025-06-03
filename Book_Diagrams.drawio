@@ -1,17 +1,29 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="l8RCSuJTA2jO7oMVMfIH">
-    <mxGraphModel dx="946" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2330" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ANBZZXyfYRdJsw2tIG5k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ANBZZXyfYRdJsw2tIG5k-1" target="ANBZZXyfYRdJsw2tIG5k-2">
+        <mxCell id="ANBZZXyfYRdJsw2tIG5k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ANBZZXyfYRdJsw2tIG5k-1" target="ANBZZXyfYRdJsw2tIG5k-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ANBZZXyfYRdJsw2tIG5k-1" value="hgh" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFBAC3;" vertex="1" parent="1">
+        <mxCell id="ANBZZXyfYRdJsw2tIG5k-1" value="hgh" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FFBAC3;" parent="1" vertex="1">
           <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ANBZZXyfYRdJsw2tIG5k-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ANBZZXyfYRdJsw2tIG5k-2" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V5xSJewVnGXyzgb5_ni--1" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="280" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="V5xSJewVnGXyzgb5_ni--2" value="Users" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" vertex="1" parent="1">
+          <mxGeometry x="650" y="980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5xSJewVnGXyzgb5_ni--3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Service_Health.svg;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="910" width="53.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V5xSJewVnGXyzgb5_ni--4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Azure_API_for_FHIR.svg;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="640" width="68" height="65.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
